@@ -1,0 +1,20 @@
+# Secrets
+appsettings.json
+
+# Build Folders
+bin/
+obj/
+
+# IDE Folders
+.idea/
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS Files
+.DS_Store
+Thumbs.db
